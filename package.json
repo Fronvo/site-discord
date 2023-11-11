@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-vercel": "next",
-    "@sveltejs/kit": "^1.22.1",
+    "@sveltejs/kit": "^1.27.5",
     "@types/uuid": "^9.0.2",
     "date-fns": "^2.29.3",
     "husky": "^8.0.3",
